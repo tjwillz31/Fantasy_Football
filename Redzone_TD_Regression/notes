@@ -1,0 +1,5 @@
+The goal of this analysis was to create a model to predict redzone receiving touchdowns for Wide Receivers using PlayerProfiler redzone opportunity metrics.
+
+The Opportunity metrics were far more stable year to year than the touchdowns themselves. 
+
+As a result, we can predict expected redzone touchdowns and see how outperformed or underperformed their opportunity in 2019 and expect regression from in 2020
