@@ -1,0 +1,3 @@
+The goal of this analysis is to use ADP data from 2014-2019 to predict QB fantasy points per game rank at the end of the season using teammate ADPs before the season.
+
+Then that is applied to 2020 ADP data and compared to QB ADP data to find values
